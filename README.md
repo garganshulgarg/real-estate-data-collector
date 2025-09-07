@@ -6,3 +6,4 @@ Automated scraper for collecting real estate property data from multiple sources
 
 To run scraper : go to cd haryanarera
 scrapy crawl registered_projects -o projects.json
+scrapy crawl lapsed_projects -o lapsed_projects.json
